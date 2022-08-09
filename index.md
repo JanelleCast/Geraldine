@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## I'm Geraldine, a product designer.
 
 You can use the [editor on GitHub](https://github.com/JanelleCast/Geraldine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Graduate from Rhode Island School of Design. Currently a freelancing desinger. Previously at Rhode Island Kitchen and Bath Design Build.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
